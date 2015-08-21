@@ -10,5 +10,9 @@ a:active {color: red;}
 .app{
 	margin: 0 0 20px;
 }
-a:visited.reok {color: white;}
-a:visited.app {color: orange;} 
+.reok a:visited{
+	color: white;
+}
+.app a:visited{
+	color: orange;
+}
